@@ -1,0 +1,112 @@
+# G-Eazy – Him & I
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+[Hook : HALSEY]
+Cross my heart hope to die
+To my lover I'd never lie
+So be true I swear I'll try
+In the end it's him and I
+He's out his head I'm out my mind
+We got that love the crazy kind
+I am his and he is mine
+In the end it's him and I, him and I
+[Verse 1 : G-EAZY]
+My 65
+Speeding up the PCH a hell of a ride
+They don't wanna see us make it
+They just wanna divide
+2017 Bonnie and Clyde
+Wouldn't see the point of living
+on if one of us died
+We got that kind style everybody try to rip off
+Ysl dress under when she take the mink off
+Silk on her body pull it down n watch
+it slip off
+Ever catch me cheating she would try n cut my
+Crazy but I love her I could never run from her
+Hit it no rubber never would no one touch her
+Swear we drive each other mad she be so stubborn
+But what the fuck is love with no pain no suffer
+Intense, this shit it gets dense
+She knows when I'm out of it
+Like, she could just sense
+If I had a million dollars
+or was down to ten cents
+She be down for whatever never gotta convince
+[Hook : HALSEY]
+Cross my heart hope to die
+To my lover I'd never lie
+So be true I swear I'll try
+In the end it's him and I
+He's out his head I'm out my mind
+We got that love the crazy kind
+I am his and he is mine
+In the end it's him and I, him and I (x3)
+[Verse 2 : G-EAZY]
+It's her and I, mobbin till the end of time
+The only one who gets me
+I'm a crazy fuckin Gemini
+Remember this for when I die
+Everybody dressed in all
+Black suits in a tie
+My funeral be lit if I
+Ever go down or get caught or they identify
+My bitch was the most solid nothin to solidify
+She would never cheat you never see her
+with a different guy
+Ever tell u different then issa lie
+See that's my down bitch
+See that's my soldier
+She keep that thang thang
+If anyone goes there
+But calm and collected
+She keep her composure
+She gon ride for me
+Until this thang over
+We do drugs together
+fuck up clubs together
+N we both go crazy
+If we was to sever
+You know
+We keep mobbin
+It's just me n my bitch
+Fuck the world we just gon keep
+gettin rich
+[Hook: HALSEY]
+Cross my heart hope to die
+To my lover I'd never lie
+So be true I swear I'll try
+In the end it's him and I
+He's out his head I'm out my mind
+We got that love the crazy kind
+I am his and he is mine
+In the end It's him and I, him and I (x3)
+[Bridge : HALSEY]
+Cross my heart hope to die
+To you I'd never lie
+For you I'd take a lie
+If it's him and I, and I swear
+Til the end Ima ride with u
+Mob n
+Get money
+Get high with u
+Cross my heart hope to die
+This is a ride or die
+You can confide in me
+There's no no hiding I swear
+Stay solid
+Never lie to you
+I swear most likely
+Ima die with you
+[Hook: HALSEY]
+Cross my heart hope to die
+To my lover I'd never lie
+So be true I swear I'll try
+In the end It's him and I
+He's out his head I'm out my mind
+We got that love the crazy kind
+I am his and he is mine
+In the end It's him and I, him and I (x3)
+```
