@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Him & I",
+  "base_artist": "G-Eazy",
+  "createdAt": "2026-03-09T17:42:44.520208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Call Him A Cowboy",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/01_Don't_Call_Him_A_Cowboy_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Call Him Daddy",
+      "artist": "Doug Supernaw",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Call_Him_Daddy_Doug_Supernaw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You See Him / If You See Her (With Reba McEntire)",
+      "artist": "Brooks & Dunn feat. Reba McEntire",
+      "has_synced": true,
+      "path": "select/03_If_You_See_Him___If_You_See_Her_(With_Reba_McEntire)_Brooks_&_Dunn_feat._Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You See Him / If You See Her",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/04_If_You_See_Him___If_You_See_Her_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If You See Him / If You See Her - with Reba McEntire",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/05_If_You_See_Him___If_You_See_Her_-_with_Reba_McEntire_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You See Him, If You See Her",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/06_If_You_See_Him,_If_You_See_Her_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To Know Him Is to Love Him",
+      "artist": "Dolly Parton feat. Emmylou Harris & Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/07_To_Know_Him_Is_to_Love_Him_Dolly_Parton_feat._Emmylou_Harris_&_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Know Him Is to Love Him (2015 Remaster)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/08_To_Know_Him_Is_to_Love_Him_(2015_Remaster)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Him",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/09_Him_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Used to Love Him",
+      "artist": "Ms. Lauryn Hill feat. Mary J. Blige",
+      "has_synced": true,
+      "path": "select/10_I_Used_to_Love_Him_Ms._Lauryn_Hill_feat._Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Used to Love Him (feat. Mary J. Blige)",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/11_I_Used_to_Love_Him_(feat._Mary_J._Blige)_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Him - Live",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/12_Tell_Him_-_Live_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Getting Over Him (feat. Jon Pardi)",
+      "artist": "Lauren Alaina feat. Jon Pardi",
+      "has_synced": true,
+      "path": "select/13_Getting_Over_Him_(feat._Jon_Pardi)_Lauren_Alaina_feat._Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Getting Over Him",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/14_Getting_Over_Him_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Break Up with Him",
+      "artist": "Old Dominion",
+      "has_synced": true,
+      "path": "select/15_Break_Up_with_Him_Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "He Knows I'd Love to See Him",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/16_He_Knows_I'd_Love_to_See_Him_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "He Knows I'd Like to See Him",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/17_He_Knows_I'd_Like_to_See_Him_Morrissey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Him & I with Halsey",
+      "artist": "G-Eazy",
+      "has_synced": false,
+      "path": "select/pl_01_Him_&_I_with_Halsey_G-Eazy.txt"
+    }
+  ]
+}
